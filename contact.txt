@@ -1,0 +1,23 @@
+Contact
+=======
+
+.. admonition:: Sergio Rey 
+
+   Email
+    sergio.rey@asu.edu 
+     
+   Office
+     | 5612 Coor Hall
+     | Arizona State Univeristy
+     | `Map <http://www.asu.edu/map/interactive/beta/?campus=tempe&building=COOR>`_
+     | +1 480-965-7533 (voice)
+     | +1 480-965-8313 (fax)
+     
+     
+   Post
+     | School of Geographical Sciences and Urban Planning
+     | Coor Hall, 875 S. Myrtle Ave. Fifth Floor
+     | Arizona State University
+     | P.O. Box 87530
+     | Tempe, AZ 86287-5302
+

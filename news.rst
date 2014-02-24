@@ -1,5 +1,11 @@
 News
 ====
+February 2014
+ I was honored to give the presidential address: ":download:`Open regional science <papers/ors_address.pdf>`" at this year's Western Regional Science Association meeting.
+
+January 2014
+ PySAL 1.7 is `released <https://github.com/pysal/pysal/wiki/PySAL-1.7-Release-(2014-01-31)>`_ 
+
 October 2013
  `Videos <http://cybergis.cigi.uiuc.edu/cyberGISwiki/doku.php/ahm13/index/video>`_ from the CyberGIS All Hands Meeting are up.
 

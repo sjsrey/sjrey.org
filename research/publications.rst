@@ -4,15 +4,16 @@
 Publications
 =============
 
+ #. 2014 Mack, E.A and S.J. Rey. "Regional variations in broadband linkages with knowledge intensive firms". *Telecommunications Policy*, 38(1): 105-118.
+ #. 2014 Rey, S.J. "Fast algorithms for a space-time concordance measure." *Computational Statistics*. Forthcoming.
+ #. 2014 Rey, S.J. "Rank based Markov chains for regional income distribution dynamics." *Journal of Geographical Systems*. In press.
+ #. 2014 Rey, S.J., A.T. Murray, A.H. Grubesic, E. Mack, R. Wei, L. Anselin and M. Griffin. "Sex Offender Residential Movement Patterns: A Markov Chain Analysis." *Professional Geographer*, 66(1): 102-111.
+ #. 2013 Anselin, L., A.T. Murray and S.J. Rey. "Spatial Analysis." In T.  Little (ed.) *Oxford Handbook of Quantitative Methods*. Oxford University Press. Pages 154-174
  #. 2013 Franklin, J., G. Keppel, E. Webb, J. Seamon, S. Rey, D. Steadman, D. Drake and S. Wiser. “Dispersal limitation, speciation, environmental filtering and niche differentiation influence forest tree communities in West Polynesia.” *Journal of Biogeography*, 40: 988-99
  #. 2013 Laura, J. and S.J. Rey.  "Improved parallel optimum choropleth map classification." In Shi, X., V. Kindratenko and C. Yang (eds.) *Modern Accelerator Technologies (MAT) for Geographic Information Science*. Springer: Berlin. In Press.
- #. 2013 Mack, E.A and S.J. Rey. "Regional variations in broadband linkages with knowledge intensive firms". *Telecommunications Policy*.  Accepted 2013-06-06.
  #. 2013 Mack, E.A., Y. Zheng, S.J. Rey and R. Maciejewski. "Spatio-temporal analysis of industrial composition with IVIID: An Interactive Visual Analytics Interface for Industrial Diversity." *Journal of Geographical Systems*. Accepted 2013-09-06.
- #. 2013 Rey, S.J. "Fast algorithms for a space-time concordance measure." *Computational Statistics*. Forthcoming.
  #. 2013 Rey, S.J. "Regional distribution dynamics revisited." *Regional and Urban Economics*. Forthcoming.
- #. 2013 Rey, S.J. "Rank based Markov chains for regional income distribution dynamics." *Journal of Geographical Systems*. In press.
  #. 2013 Rey, S.J., L. Anselin, R. Pahle, X. Kang, and P. Stephens. "Parallel Optimal Choropleth Map Classification in PySAL." *International Journal of Geographical Information Sciences*. DOI:10.1080/13658816.2012.752094.
- #. 2013 Rey, S.J., A.T. Murray, A.H. Grubesic, E. Mack, R. Wei, L. Anselin and M. Griffin. "Sex Offender Residential Movement Patterns: A Markov Chain Analysis." *Professional Geographer*. DOI:10.1080/00330124.2013.765293.
  #. 2013 Rey, S.J., and R. Smith. "A Spatial Decomposition of the Gini Coefficient." *Letters in Spatial and Resource Sciences*. Forthcoming.
  #. 2013 Sastre-Gutierrez, M.L. and S.J. Rey. "Space-time income distribution dynamics in Mexico." *Annals of GIS*. Forthcoming.
  #. 2012 Anselin, L., A.T. Murray and S.J. Rey. "Spatial Analysis." In T.  Little (ed.) *Oxford Handbook of Quantitative Methods*. Oxford University Press. Forthcoming.

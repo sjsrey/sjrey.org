@@ -4,10 +4,11 @@
 =============
 Invited Talks
 =============
-
- #. 2013 Rey, S.J. "Exploratory space-time data analysis: Distributional and computational issues. CyberGIS Speaker Series. University of Illinois, Urbana-Champaign. February.
- #. 2012 Rey, S.J. Open source spatial data analysis: Lessons for education and research from PySAL. Keynote, Open Source Geospatial Research and Education Symposium. Yverdon-les-Bains, Switzerland. October.
- #. 2012 Rey, S.J. Markov based methods for spatial dynamics. Department of Geography, University of Zurich. October.
+ #. 2014 Rey, S.J. ":download:`Open regional science <../papers/ors_address.pdf>`." Presidential Address, Western Regional Science Association. San Diego. February.
+ #. 2014 Rey, S.J. "Space-time empirics." School of Geographical Sciences and Urban Planning, Arizona State University. January.
+ #. 2013 Rey, S.J. "Exploratory space-time data analysis: Distributional and computational issues." CyberGIS Speaker Series. University of Illinois, Urbana-Champaign. February.
+ #. 2012 Rey, S.J. "Open source spatial data analysis: Lessons for education and research from PySAL." Keynote, Open Source Geospatial Research and Education Symposium. Yverdon-les-Bains, Switzerland. October.
+ #. 2012 Rey, S.J. "Markov based methods for spatial dynamics." Department of Geography, University of Zurich. October.
  #. 2012 Rey, S.J. "Exploring spatial dynamics of neighborhoods." Spatial Structures for the Social Sciences. Brown University. March.
  #. 2011 Rey, S.J. "Recent advances in Software for Space-Time Data Analysis." Future Directions in Spatial Demography, Specialist Meeting.  Santa Barbara. December.
  #. 2011 Rey, S.J. "Exploratory space-time data analytics." Plenary Speaker. GEOINT, San Antonio. October.
@@ -48,7 +49,11 @@ Invited Talks
 ========================
 Conference Presentations
 ========================
-
+ #. 2013 Rey, S.J. "Regional Econometric+Input-Output Modeling: An Overview." Regional Science Association International. Atlanta, November.
+ #. 2013 Rey, S.J. "Regional distribution dynamics revisited." Regional Science Association International. Atlanta, November.
+ #. 2013 Rey, S.J. "Workshop: Exploratory spatial data analysis with PySAL." Regional Science Association International. Atlanta, November.
+ #. 2013 Rey, S.J. and J. Laura. "Parallel PySAL." CyberGIS All-Hands Meeting.  Seattle, September.
+ #. 2013 Rey, S.J. "Code as text: Open source in academia." Scientific Computing with Python. Austin, July.
  #. 2013 Mack, E.A. and S.J. Rey. An econometric approach to evaluate regional variations in broadband linkages to knowledge intensive firms.  Western Regional Science Association. Santa Barbara, CA. February.
  #. 2013 Rey, S.J., L. Anselin and J. Laura. "Spatial Analysis and Big Data: Challenges and Opportunities." SIAM Meetings on Computational Science and Engineering.  Boston. February.
  #. 2013 Rey, S.J. "Fast algorithms for a space-time concordance measure." Western Regional Science Association. Santa Barbara. February.

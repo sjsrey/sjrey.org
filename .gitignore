@@ -51,3 +51,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# web sjrey
+tmp
+_build/
